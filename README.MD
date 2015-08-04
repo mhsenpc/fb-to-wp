@@ -15,5 +15,12 @@ facebook to wordpress is an web application that integrates with wordpress and c
 -login page uses api/login.php 
 -list facebook posts and images uses api/index.php
 
+#screenshots
+http://s6.picofile.com/file/8204150818/popular_pages.jpg
+http://s6.picofile.com/file/8204150776/login_page.jpg
+http://s3.picofile.com/file/8204150742/imagespage.jpg
+http://s6.picofile.com/file/8204150700/custom_page.jpg
+http://s3.picofile.com/file/8204150500/configuration.jpg
+
 #licence
 this application is published under GPLv2
