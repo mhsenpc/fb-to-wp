@@ -1,9 +1,9 @@
 <?php
 
-	$db_host='sql.byethost22.org';
-	$db_name='kurdabdo_fbtoblog_main';
-	$db_username='kurdabdo_mohsen';
-	$db_passowrd='12)!1s~PMV87';
+	$db_host='';
+	$db_host='';
+	$db_username='';
+	$db_passowrd='';
 	
     $username= addslashes( strip_tags( $_POST['username']));
     $password= addslashes( strip_tags( $_POST['password']));
